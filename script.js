@@ -1,3 +1,6 @@
-let a = 2;
+const ausgabeguess = document.getElementById("guess");
 
-alert(a);
+ausgabeguess.addEventListener("click", function () {
+    alert("kkk");
+});
+
